@@ -1,0 +1,1 @@
+p(Import("me.corebyte.sha").sha256("hello"))
